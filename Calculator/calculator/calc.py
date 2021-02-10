@@ -42,7 +42,7 @@ class Ui_MainWindow(object):
 "   border-right: 5px solid black;\n"
 "}\n"
 "QPushButton:pressed {\n"
-"    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #dadbde​, stop: 1 #f6f7fa​);\n"
+"background: white;\n"
 "border: none;\n"
 "}")
         self.pushButton_clear.setObjectName("pushButton_clear")
@@ -58,7 +58,7 @@ class Ui_MainWindow(object):
 "   border-right: 5px solid black;\n"
 "}\n"
 "QPushButton:pressed {\n"
-"    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #dadbde​, stop: 1 #f6f7fa​);\n"
+"background: white;\n"
 "border: none;\n"
 "}")
         self.pushButton_plusMinus.setObjectName("pushButton_plusMinus")
@@ -74,7 +74,7 @@ class Ui_MainWindow(object):
 "   border-right: 5px solid black;\n"
 "}\n"
 "QPushButton:pressed {\n"
-"    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #dadbde​, stop: 1 #f6f7fa​);\n"
+"background: white;\n"
 "border: none;\n"
 "}")
         self.pushButton_divice.setObjectName("pushButton_divice")
@@ -90,7 +90,7 @@ class Ui_MainWindow(object):
 "   border-right: 5px solid black;\n"
 "}\n"
 "QPushButton:pressed {\n"
-"    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #dadbde​, stop: 1 #f6f7fa​);\n"
+"background: white;\n"
 "border: none;\n"
 "}")
         self.pushButton_percent.setObjectName("pushButton_percent")
@@ -106,7 +106,7 @@ class Ui_MainWindow(object):
 "   border-right: 5px solid black;\n"
 "}\n"
 "QPushButton:pressed {\n"
-"    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #dadbde​, stop: 1 #f6f7fa​);\n"
+"background: white;\n"
 "border: none;\n"
 "}")
         self.pushButton_7.setObjectName("pushButton_7")
@@ -122,7 +122,7 @@ class Ui_MainWindow(object):
 "   border-right: 5px solid black;\n"
 "}\n"
 "QPushButton:pressed {\n"
-"    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #dadbde​, stop: 1 #f6f7fa​);\n"
+"background: white;\n"
 "border: none;\n"
 "}")
         self.pushButton_9.setObjectName("pushButton_9")
@@ -138,7 +138,7 @@ class Ui_MainWindow(object):
 "   border-right: 5px solid black;\n"
 "}\n"
 "QPushButton:pressed {\n"
-"    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #dadbde​, stop: 1 #f6f7fa​);\n"
+"background: white;\n"
 "border: none;\n"
 "}")
         self.pushButton_multiply.setObjectName("pushButton_multiply")
@@ -154,7 +154,7 @@ class Ui_MainWindow(object):
 "   border-right: 5px solid black;\n"
 "}\n"
 "QPushButton:pressed {\n"
-"    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #dadbde​, stop: 1 #f6f7fa​);\n"
+"background: white;\n"
 "border: none;\n"
 "}")
         self.pushButton_8.setObjectName("pushButton_8")
@@ -170,7 +170,7 @@ class Ui_MainWindow(object):
 "   border-right: 5px solid black;\n"
 "}\n"
 "QPushButton:pressed {\n"
-"    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #dadbde​, stop: 1 #f6f7fa​);\n"
+"background: white;\n"
 "border: none;\n"
 "}")
         self.pushButton_4.setObjectName("pushButton_4")
@@ -186,7 +186,7 @@ class Ui_MainWindow(object):
 "   border-right: 5px solid black;\n"
 "}\n"
 "QPushButton:pressed {\n"
-"    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #dadbde​, stop: 1 #f6f7fa​);\n"
+"background: white;\n"
 "border: none;\n"
 "}")
         self.pushButton_6.setObjectName("pushButton_6")
@@ -202,7 +202,7 @@ class Ui_MainWindow(object):
 "   border-right: 5px solid black;\n"
 "}\n"
 "QPushButton:pressed {\n"
-"    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #dadbde​, stop: 1 #f6f7fa​);\n"
+"background: white;\n"
 "border: none;\n"
 "}")
         self.pushButton_subtract.setObjectName("pushButton_subtract")
@@ -218,7 +218,7 @@ class Ui_MainWindow(object):
 "   border-right: 5px solid black;\n"
 "}\n"
 "QPushButton:pressed {\n"
-"    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #dadbde​, stop: 1 #f6f7fa​);\n"
+"background: white;\n"
 "border: none;\n"
 "}")
         self.pushButton_5.setObjectName("pushButton_5")
@@ -234,7 +234,7 @@ class Ui_MainWindow(object):
 "   border-right: 5px solid black;\n"
 "}\n"
 "QPushButton:pressed {\n"
-"    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #dadbde​, stop: 1 #f6f7fa​);\n"
+"background: white;\n"
 "border: none;\n"
 "}")
         self.pushButton_1.setObjectName("pushButton_1")
@@ -250,7 +250,7 @@ class Ui_MainWindow(object):
 "   border-right: 5px solid black;\n"
 "}\n"
 "QPushButton:pressed {\n"
-"    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #dadbde​, stop: 1 #f6f7fa​);\n"
+"background: white;\n"
 "border: none;\n"
 "}")
         self.pushButton_3.setObjectName("pushButton_3")
@@ -266,7 +266,7 @@ class Ui_MainWindow(object):
 "   border-right: 5px solid black;\n"
 "}\n"
 "QPushButton:pressed {\n"
-"    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #dadbde​, stop: 1 #f6f7fa​);\n"
+"background: white;\n"
 "border: none;\n"
 "}")
         self.pushButton_add.setObjectName("pushButton_add")
@@ -282,7 +282,7 @@ class Ui_MainWindow(object):
 "   border-right: 5px solid black;\n"
 "}\n"
 "QPushButton:pressed {\n"
-"    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #dadbde​, stop: 1 #f6f7fa​);\n"
+"background: white;\n"
 "border: none;\n"
 "}")
         self.pushButton_2.setObjectName("pushButton_2")
@@ -298,7 +298,7 @@ class Ui_MainWindow(object):
 "   border-right: 5px solid black;\n"
 "}\n"
 "QPushButton:pressed {\n"
-"    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #dadbde​, stop: 1 #f6f7fa​);\n"
+"background: white;\n"
 "border: none;\n"
 "}")
         self.pushButton_decimal.setObjectName("pushButton_decimal")
@@ -314,7 +314,7 @@ class Ui_MainWindow(object):
 "   border-right: 5px solid black;\n"
 "}\n"
 "QPushButton:pressed {\n"
-"    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #dadbde​, stop: 1 #f6f7fa​);\n"
+"background: white;\n"
 "border: none;\n"
 "}")
         self.pushButton_equals.setObjectName("pushButton_equals")
@@ -330,7 +330,7 @@ class Ui_MainWindow(object):
 "   border-right: 5px solid black;\n"
 "}\n"
 "QPushButton:pressed {\n"
-"    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #dadbde​, stop: 1 #f6f7fa​);\n"
+"background: white;\n"
 "border: none;\n"
 "}")
         self.pushButton_0.setObjectName("pushButton_0")
